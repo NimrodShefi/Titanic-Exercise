@@ -14,3 +14,7 @@ if someone else made changes to github and you want get those changes to your lo
 then you will need to follow these steps (speaking to you Ariel):
 
 git pull
+
+to change branches on git:
+
+git checkout branchname
