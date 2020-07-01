@@ -20,5 +20,7 @@ to change branches on git:
 git checkout branchname
 
 to branch:
+
 git checkout "branch to be copied to"
+
 git merge "branch to be copied from"
